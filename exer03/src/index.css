@@ -1,0 +1,19 @@
+.inc{
+  width: 100px;
+     height: 60px;
+     color: white;
+     background-color: blue;
+} 
+
+.dec {
+  background: red;
+  width:100px;
+  height:60px;
+  color: white;
+}
+
+div .text {
+  font-size: 30px;
+ 
+}
+
